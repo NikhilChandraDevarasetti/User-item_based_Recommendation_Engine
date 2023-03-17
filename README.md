@@ -6,7 +6,9 @@ git clone https://github.com/NikhilChandraDevarasetti/User-item_based_Recommenda
 
 ## Create vertual environment of your own
 python -m venv ./venv/
+
 .\venv\Scripts\activate
+
 pip install -r requirements.txt
 
 ## Run the below command in your command line to see the results in your browser
